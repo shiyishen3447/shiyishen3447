@@ -1,6 +1,5 @@
 ---
 title: Recent Posts
-image: featured
 # View.
 #   1 = List
 #   2 = Compact
