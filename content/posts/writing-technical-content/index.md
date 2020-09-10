@@ -1,5 +1,6 @@
 ---
 title: Writing technical content in Academic
+subtitle: Academic is designed to give technical content creators a seamless experience.
 date: 2019-07-12
 math: true
 diagram: true
