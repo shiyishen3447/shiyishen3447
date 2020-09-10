@@ -1,5 +1,5 @@
-{{ $st := .page }}
 <div class="content">
+ {{$st := .page }}
   {{with $st.Title}}
     <header>
       <h2>{{.|markdownify|emojify}}</h2>
