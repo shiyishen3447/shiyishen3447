@@ -20,7 +20,7 @@
 
 [[main]]
   name = "About Me"
-  url = "#featured"
+  url = "about/"
   weight = 40
 
 
