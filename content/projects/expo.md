@@ -5,8 +5,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 10  # Order that this section will appear.
 
-title = "User Stories"
-subtitle = "How people use Wowchemy to design beautiful websites 😍"
+title = "Projects"
+subtitle = ""
 
 [content]
   # Page type to display. E.g. project.
@@ -39,7 +39,7 @@ subtitle = "How people use Wowchemy to design beautiful websites 😍"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
-  columns = "2"
+  columns = "1"
 
   # Toggle between the various page layout types.
   #   1 = List
@@ -51,10 +51,3 @@ subtitle = "How people use Wowchemy to design beautiful websites 😍"
   flip_alt_rows = false
 +++
 
-Did you create a beautiful website with Wowchemy too?
-
-**Tell us about it!** 🤗 
-
-<span><a class="btn btn-primary" style="font-size: 1rem; margin-bottom: 1rem;" href="https://twitter.com/intent/tweet?text=I%27m%20creating%20a%20beautiful%20website%20using%20the%20Wowchemy%20Website%20Builder%20for%20%40GoHugoIO%20by%20%40GeorgeCushen!&amp;hashtags=MadeWithWowchemy&amp;url=https://wowchemy.com" target="_blank"><i class="fab fa-twitter pr-1"></i>Share my site</a></span>
-
-**Explore featured sites from the community**
