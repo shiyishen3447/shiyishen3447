@@ -11,7 +11,7 @@ figure img {
 
 /* Make homepage section padding compact. */
 .home-section {
-  padding: 30px 0 0 0;
+  padding: 30px 0 10px 0;
 }
 
 /* Hero title: use brand color and bigger font. */
@@ -47,7 +47,7 @@ figure img {
   display: flex;
   flex-wrap: wrap;
   list-style: none;
-  align-items: center;
+  align-items: left;
   justify-content: left;
   margin-left: calc(-1 * var(--button-group-margin));
   margin-right: calc(-1 * var(--button-group-margin));
@@ -55,7 +55,7 @@ figure img {
 }
 
 .cta-group-center {
-  justify-content: center;
+  justify-content: left;
 }
 
 .cta-group li {
@@ -199,7 +199,7 @@ div.alert-thanks {
   left: 50%;
   transform: translate(-50%, -50%);
   -ms-transform: translate(-50%, -50%);
-  text-align: center;
+  text-align: left;
 }
 
 .tpl-image-container:hover img {
