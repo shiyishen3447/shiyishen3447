@@ -1,0 +1,35 @@
+// Starter Blog Template
+// https://sourcethemes.com/academic/themes/
+
+.home-section {
+  padding: 0em 0em 0em 0em;
+}
+
+.home-section.wg-starter-blog-intro {
+  align-items: left;
+  justify-content: l;
+}
+
+.home-section.wg-starter-blog-intro .content {
+  text-align: center;
+}
+
+.home-section > .content {
+  width: 45em;
+  max-width: calc(100% - 4em);
+  margin: 0 auto;
+}
+
+.home-section > .content > :last-child {
+  margin-bottom: 0em;
+}
+
+.home-section header {
+  margin-bottom: 0em;
+}
+
+.home-section .wg-starter-blog-intro h2 {
+  font-size: 2em;
+  line-height: 1em;
+  letter-spacing: -0.025em;
+}
