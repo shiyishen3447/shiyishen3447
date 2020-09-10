@@ -33,8 +33,8 @@ subtitle = ""
     
   [content.archive]
     enable = true
-    text = "See all blog posts"
-    link = "post/"
+    text = "👉 click to see more"
+    link = "posts/"
     
 [design]
   columns = "1"
