@@ -38,7 +38,6 @@
 }
 
 html {
-    font-family: sans-serif;
     line-height: 1.15;
     -webkit-text-size-adjust: 100%;
     -webkit-tap-highlight-color: transparent
@@ -246,7 +245,6 @@ select,
 optgroup,
 textarea {
     margin: 0;
-    font-family: inherit;
     font-size: inherit;
     line-height: inherit
 }
@@ -9979,7 +9977,6 @@ a.text-dark:focus {
 }
 
 html {
-    font-family: grandstander, cursive;
     font-size: 16.17px;
     color: rgba(0, 0, 0, .8);
     line-height: 1.65
@@ -9992,7 +9989,6 @@ html {
 }
 
 body {
-    font-family: inherit;
     font-size: 1rem;
     line-height: inherit;
     color: inherit;
@@ -10063,7 +10059,6 @@ h3,
 h4,
 h5,
 h6 {
-    font-family: luckiest guy, cursive;
     font-weight: 400;
     margin-top: 1rem;
     margin-bottom: .5rem;
@@ -10166,7 +10161,6 @@ figcaption.numbered {
 
 pre,
 code {
-    font-family: dm mono, monospace;
     color: #c7254e;
     background-color: #f8f8f8
 }
@@ -10524,7 +10518,6 @@ div.alert>div:first-child::before {
     left: -2rem;
     font-size: 1.5rem;
     color: #209cee;
-    font-family: 'font awesome 5 free';
     font-weight: 900;
     content: '\f05a';
     width: 1.5rem;
@@ -10532,7 +10525,6 @@ div.alert>div:first-child::before {
 }
 
 div.alert-warning>div:first-child::before {
-    font-family: 'font awesome 5 free';
     font-weight: 900;
     color: #ff3860;
     content: '\f071'
@@ -10918,7 +10910,6 @@ a.summary-link {
     transform: translate(0, -50%);
     opacity: 0;
     transition: all .2s ease-out;
-    font-family: 'font awesome 5 free';
     font-weight: 900;
     content: '\f0c1';
     text-align: center;
@@ -11014,7 +11005,6 @@ a.summary-link {
 }
 
 #search-box::before {
-    font-family: 'font awesome 5 free';
     font-weight: 900;
     content: "\f002";
     font-size: 1rem;
@@ -11148,7 +11138,6 @@ a.summary-link {
 }
 
 .article-metadata {
-    font-family: "Bebas Neue", sans-serif;
     margin-top: -6px;
     overflow: hidden;
     font-size: 10px;
