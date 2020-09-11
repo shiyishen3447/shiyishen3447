@@ -33,7 +33,7 @@ subtitle = ""
     
   [content.archive]
     enable = true
-    text = "👉 click to see more"
+    text = "👉 Click to see more"
     link = "post/"
     
 [design]
