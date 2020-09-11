@@ -1,6 +1,8 @@
 ---
 title: 🌸 Welcome to NLP with Shiyi🤖
 subtitle: my first post to my first blog
+summary: Here I have fun with Machine Learning, AI, and Natural Language Processing.
+##
 date: 2019-07-12
 math: true
 diagram: true
@@ -10,7 +12,7 @@ image:
   caption: 'Image credit: [**John Moeses Bauan**](https://unsplash.com/photos/OGZtQF8iC0g)'
 ---
 
-**Here I have fun with NLP（Natural Language Processing）**. 
+**Here I have fun with NLP（Natural Language Processing）**
 
 ## Who Am I?
 

@@ -1,10 +1,10 @@
 ---
-title: s
-subtitle: s
+title: What is NLP? 
+subtitle: A generalized introduction to Natural Language Processing related topics and what I have been working on in Computational Linguistics
 date: 2020-09-10T22:13:37.042Z
-summary: s
+summary: A generalized introduction to Natural Language Processing related topics and what I have been working on in Computational Linguistics
 draft: false
-featured: true
+featured: false
 authors:
   - s
 tags:
@@ -14,10 +14,9 @@ categories:
 projects:
   - s
 image:
-  filename: img_4794.jpg
+  filename: featured.jpg
   focal_point: Smart
   preview_only: false
   caption: s
   alt_text: s
 ---
-s
