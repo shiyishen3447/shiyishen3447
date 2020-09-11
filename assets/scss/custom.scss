@@ -11408,7 +11408,7 @@ ul.share li:hover i {
 }
 
 .media.stream-item {
-    margin-bottom: 2rem
+    margin-bottom: 1rem
 }
 
 .media.stream-item .article-title,
@@ -11500,7 +11500,8 @@ ul.share li:hover i {
 }
 
 .home-section:nth-of-type(even) {
-    background-color: #fff
+    background-color: #fff;
+	margin-top: -1.7rem;
 }
 
 .dark .home-section {
@@ -11516,9 +11517,7 @@ ul.share li:hover i {
         padding: 60px 0
     }
     .home-section:first-of-type {
-        padding-top: 40px;
-		padding-left: 10px;
-		padding-right: 10px
+   	 	margin-top: -0.9rem;
     }
 }
 
