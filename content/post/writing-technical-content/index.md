@@ -1,5 +1,5 @@
 ---
-title: 🌸 Welcome to NLP with Shiyi🤖
+title: Welcome to NLP with Shiyi
 subtitle: my first post to my first blog
 summary: Here I have fun with Machine Learning, AI, and Natural Language Processing.
 ##
