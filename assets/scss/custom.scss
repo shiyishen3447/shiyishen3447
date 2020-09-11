@@ -10227,7 +10227,7 @@ blockquote p:last-child {
     padding-right: 1rem;
     padding-left: 1rem;
     padding-top: .1rem;
-    width: 80%
+    width: 98%
 }
 
 @media only screen and (min-width:1001px) {
@@ -11419,7 +11419,10 @@ ul.share li:hover i {
 .media.stream-item .article-style,
 .card-simple .article-style {
     margin-top: 2px;
-    font-size: .8rem
+    font-size: .8rem;
+	letter-spacing: 0.009em;
+	line-height: 1.3;
+	
 }
 
 .media.stream-item .stream-meta {
