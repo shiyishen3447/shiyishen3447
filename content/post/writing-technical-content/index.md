@@ -9,10 +9,10 @@ diagram: true
 featured: true
 image:
   filename: featured.jpg
-  caption: ""
   focal_point: Smart
-  preview_only:false
-  alt_text: "" 
+  preview_only: false
+  caption: ""
+  alt_text: ""
 ---
 
 **Here I have fun with NLP（Natural Language Processing）**
