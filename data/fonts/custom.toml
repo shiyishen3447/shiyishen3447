@@ -3,7 +3,7 @@ name = "custom"
 
 
 # Optional Google font URL
-google_fonts = "family=DM+Mono:wght@300..500family=Abril+Fatface&family=Abril+Fatface&family=Open+Sans:ital,wght@0,300;0,400;0,600;0,700;1,300;1,400;1,600;1,700"
+google_fonts = "family=Abril+Fatface&family=Open+Sans:ital,wght@0,300;0,400;0,600;0,700;1,300;1,400;1,600;1,700&family=DM+Mono:wght@300..500"
 #
 # Font families
 heading_font = "Abril Fatface"
