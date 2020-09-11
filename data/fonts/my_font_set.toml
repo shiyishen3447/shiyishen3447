@@ -1,13 +1,17 @@
 # Font style metadata
 name = "my_font_set"
+# Font style metadata
+name = "my_font_set"
 
 # Optional Google font URL
-google_fonts = "family=Lato:wght@400;700&family=Bebas+Neue:wght@400&0&family=DM+Mono:wght@300..500family=Lora:wght@400;500;600;700&display=swap"
+google_fonts = "family=DM+Mono:wght@300..500&family=Grandstander:ital,wght@0,100;0,200;0,300;0,400;0,500;1,100;1,200;1,300;1,400;1,500&family=Luckiest+Guy&display=swap"
 #
 # Font families
-heading_font = "Lato"
-body_font = "Lora"
-nav_font = "Lato"
+heading_font = "Luckiest Guy"
+body_font = "Grandstander"
+nav_font = "Roboto"
 mono_font = "DM Mono"
 #https://fonts.googleapis.com/css2?family=Cabin+Sketch:wght@400;700&family=EB+Garamond:ital,wght@0,400..800;1,400..800&family=Inconsolata:wght@200..900&display=swap
 #
+
+
