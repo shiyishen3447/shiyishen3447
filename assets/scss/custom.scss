@@ -11151,7 +11151,7 @@ a.summary-link {
     font-family: "Bebas Neue", sans-serif;
     margin-top: -6px;
     overflow: hidden;
-    font-size: 14px;
+    font-size: 10px;
     letter-spacing: .03em;
     color: rgba(0, 0, 0, .54)
 }
@@ -11428,7 +11428,7 @@ ul.share li:hover i {
 }
 
 .media.stream-item .stream-meta {
-    margin-top: 5px;
+    margin-top: 10px;
 	margin-bottom: 0px;
 }
 
@@ -11440,7 +11440,8 @@ ul.share li:hover i {
 
 @media screen and (max-width:768px) {
     .media.stream-item img {
-        max-width: 80px
+        max-width: 100px;
+		height: 70px;
     }
 }
 
