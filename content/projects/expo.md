@@ -22,20 +22,20 @@ subtitle = ""
   filter_default = 0
   
   [[content.filter_button]]
-    name = "All"
+    name = "NLP"
     tag = "*"
   
   [[content.filter_button]]
-    name = "Personal"
+    name = "Linguistics"
     tag = "Personal"
   
-  [[content.filter_button]]
-    name = "Research Group"
-    tag = "Research Group"
-  
-  [[content.filter_button]]
-    name = "Project/Organization"
-    tag = "Project"
+  #[[content.filter_button]]
+  #  name = "Research Group"
+  #  tag = "Research Group"
+
+  #[[content.filter_button]]
+  #  name = "Project/Organization"
+  # tag = "Project" 
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
