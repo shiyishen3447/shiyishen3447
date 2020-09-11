@@ -89,6 +89,7 @@ h6 {
 }
 
 p {
+	line-height: 1.5rem;
     margin-top: 0;
     margin-bottom: 1rem
 }
@@ -11147,7 +11148,8 @@ a.summary-link {
 }
 
 .article-metadata {
-    margin-bottom: 15px;
+    font-family: "Bebas Neue", sans-serif;
+    margin-top: -6px;
     overflow: hidden;
     font-size: 14px;
     letter-spacing: .03em;
