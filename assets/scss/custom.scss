@@ -11426,11 +11426,12 @@ ul.share li:hover i {
 }
 
 .media.stream-item .stream-meta {
-    margin-top: 12px
+    margin-top: 5px;
+	margin-bottom: 0px;
 }
 
 .media.stream-item img {
-    max-width: 150px;
+    max-width: 170px;
     height: auto;
     object-fit: cover
 }
