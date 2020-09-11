@@ -1,7 +1,6 @@
 # Font style metadata
 name = "my_font_set"
-# Font style metadata
-name = "my_font_set"
+
 
 # Optional Google font URL
 google_fonts = "family=DM+Mono:wght@300..500&family=Grandstander:ital,wght@0,100;0,200;0,300;0,400;0,500;1,100;1,200;1,300;1,400;1,500&family=Luckiest+Guy&display=swap"
