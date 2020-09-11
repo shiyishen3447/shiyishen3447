@@ -88,7 +88,7 @@ h6 {
 }
 
 p {
-	line-height: 1.5rem;
+	line-height: 1.6rem;
     margin-top: 0;
     margin-bottom: 1rem
 }
@@ -11066,6 +11066,7 @@ a.summary-link {
 }
 
 .page-subtitle {
+    line-height: inherit;
     font-size: 1rem;
     color: rgba(0, 0, 0, .54);
     margin-bottom: 1rem
