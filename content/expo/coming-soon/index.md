@@ -1,18 +1,17 @@
 +++
 # Date this page was created.
-date = 2019-09-15T00:00:00
+date = 2019-03-03T00:00:00
 layout = "project"
 
 # Project title.
-title = "Imperial College London"
+title = "Oops... currently underconstruction..."
 
 # Project summary to display on homepage.
-summary = "Transport Systems & Logistics Laboratory"
+summary = "Management consultant"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["Research Group"]
+tags = ["Personal"]
 
 # Optional external URL for project (replaces project detail page).
-external_link = "https://www.tslab.org"
 +++
