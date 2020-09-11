@@ -13,7 +13,7 @@ image:
 
 ## Who Am I?
 
-I have been an "advanced" master's student at **Brandeis University** since 2018, 
+I have been an "advanced" master's student at **Brandeis University** since 2018. 
 
 Academic supports a Markdown extension for highlighting code syntax. You can enable this feature by toggling the `highlight` option in your `config/_default/params.toml` file.
 
