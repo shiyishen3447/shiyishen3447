@@ -11,7 +11,7 @@ lastMod: "2019-09-05T00:00:00Z"
 featured: false
 draft: false
 
-# Featured image
+# Displays featured image here
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
   caption: ""
@@ -24,6 +24,8 @@ image:
 #   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
+
+
 ---
 
 ```python
@@ -45,10 +47,14 @@ print("Welcome to Academic!")
 
     Welcome to Academic!
 
-
 ## Install Python and JupyterLab
 
 [Install Anaconda](https://www.anaconda.com/distribution/#download-section) which includes Python 3 and JupyterLab.
+
+
+a cool feature that
+
+they have 
 
 Alternatively, install JupyterLab with `pip3 install jupyterlab`.
 
@@ -92,5 +98,17 @@ jupyter nbconvert index.ipynb --to markdown --NbConvertApp.output_files_dir=.
 ```
 
 ## Example
+
+
+
+
+
+
+
+
+
+
+
+
 
 This post was created with Jupyter. The orginal files can be found at https://github.com/gcushen/hugo-academic/tree/master/exampleSite/content/post/jupyter

@@ -1,6 +1,6 @@
 ---
-title: Writing technical content in Academic
-subtitle: Academic is designed to give technical content creators a seamless experience.
+title: 🌸 Welcome to NLP with Shiyi🤖
+subtitle: my first post to my first blog
 date: 2019-07-12
 math: true
 diagram: true
@@ -9,15 +9,11 @@ image:
   caption: 'Image credit: [**John Moeses Bauan**](https://unsplash.com/photos/OGZtQF8iC0g)'
 ---
 
-Academic is designed to give technical content creators a seamless experience. You can focus on the content and Academic handles the rest.
+**Here I have fun with AI**🤩  
 
-**Highlight your code snippets, take notes on math classes, and draw diagrams from textual representation.**
+## Who Am I?
 
-On this page, you'll find some examples of the types of technical content that can be rendered with Academic.
-
-## Examples
-
-### Code
+I have been an "advanced" master's student at **Brandeis University** since 2018, 
 
 Academic supports a Markdown extension for highlighting code syntax. You can enable this feature by toggling the `highlight` option in your `config/_default/params.toml` file.
 
@@ -58,16 +54,16 @@ Example **inline math** `$\nabla F(\mathbf{x}_{n})$` renders as $\nabla F(\mathb
 
 Example **multi-line math** using the `\\\\` math linebreak:
 
-```tex
+```latex
 $$f(k;p_0^*) = \begin{cases} p_0^* & \text{if }k=1, \\\\
 1-p_0^* & \text {if }k=0.\end{cases}$$
 ```
 
 renders as
-
+```latex
 $$f(k;p_0^*) = \begin{cases} p_0^* & \text{if }k=1, \\\\
 1-p_0^* & \text {if }k=0.\end{cases}$$
-
+```
 ### Diagrams
 
 Academic supports a Markdown extension for diagrams. You can enable this feature by toggling the `diagram` option in your `config/_default/params.toml` file or by adding `diagram: true` to your page front matter.
