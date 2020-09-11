@@ -7,14 +7,6 @@ summary: A generalized introduction to Natural Language Processing related
   topics and what I have been working on in Computational Linguistics
 draft: false
 featured: false
-authors:
-  - ""
-tags:
-  - ""
-categories:
-  - ""
-projects:
-  - ""
 image:
   filename: featured.jpg
   focal_point: Smart
