@@ -1,7 +1,7 @@
 ---
 title: What is NLP?
 subtitle: A generalized introduction to Natural Language Processing related
-  topics and what I have been working on in Computational Linguistics
+  topics
 date: 2020-09-10T22:13:37.042Z
 summary: A generalized introduction to Natural Language Processing related
   topics and what I have been working on in Computational Linguistics
