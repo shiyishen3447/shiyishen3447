@@ -8,8 +8,11 @@ math: true
 diagram: true
 featured: true
 image:
-  placement: 3
-  caption: 'Image credit: [**John Moeses Bauan**](https://unsplash.com/photos/OGZtQF8iC0g)'
+  filename: featured.jpg
+  caption: ""
+  focal_point: Smart
+  preview_only:false
+  alt_text: "" 
 ---
 
 **Here I have fun with NLP（Natural Language Processing）**
