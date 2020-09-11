@@ -4,12 +4,13 @@ subtitle: my first post to my first blog
 date: 2019-07-12
 math: true
 diagram: true
+featured: true
 image:
   placement: 3
   caption: 'Image credit: [**John Moeses Bauan**](https://unsplash.com/photos/OGZtQF8iC0g)'
 ---
 
-**Here I have fun with AI**🤩  
+**Here I have fun with NLP（Natural Language Processing）**. 
 
 ## Who Am I?
 
