@@ -2,7 +2,7 @@
 name = "garamond"
 
 # Optional Google font URL
-google_fonts = "family=Bebas+Neue:wght@400;700&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&family=DM+Mono:wght@300..500"
+google_fonts = "family=Bebas+Neue:wght@400&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&family=DM+Mono:wght@300..500"
 
 # Font families
 heading_font = "Bebas Neue"
