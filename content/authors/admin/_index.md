@@ -17,9 +17,9 @@ social:
   - icon: envelope
     icon_pack: fas
     link: "/about/#contact"
-  - icon: twitter
+  - icon: linkedin
     icon_pack: fab
-    link: https://twitter.com/shiyi3447
+    link: https://www.linkedin.com/in/shiyi-shen-5833b4a7/
   - icon: github
     icon_pack: fab
     link: https://github.com/shiyishen3447
