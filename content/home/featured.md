@@ -1,7 +1,7 @@
 +++
 widget = "featured"  # Use the Pages widget
 headless = true  # This file represents a page section.
-
+weight = 5
 # ... Put Your Section Options Here (title etc.) ...
 
 [content]
