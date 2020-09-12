@@ -1,4 +1,4 @@
-<footer class="site-footer">
+<em><footer class="site-footer">
   <!-- {{ if or (site.GetPage "terms.md") (site.GetPage "privacy.md") }}
   <p class="powered-by">
     {{ with site.GetPage "privacy.md" }}
@@ -15,10 +15,8 @@
     {{ with site.Copyright }}{{ replace . "{year}" now.Year | markdownify}}{{ end }} 
   </p>
   <p class="pwered-by">
-	 <a href="https://twitter.com/shiyi3447" target="_blank" rel="noopener"><i class="fab fa-twitter mr-2x"></i></a> 
-	
+	 <a href="https://twitter.com/shiyi3447" target="_blank" rel="noopener"><i class="fab fa-twitter mr-2x"></i></a>{{ end }}
   </p>
-  
   <!-- {{/* Display copyright license. */}}
   {{ partial "site_footer_license" . }}
 
@@ -53,3 +51,4 @@
     {{ end }}
   </p>
 </footer>
+</em>
