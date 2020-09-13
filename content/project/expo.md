@@ -1,6 +1,6 @@
 +++
 # An Expo section created with the Portfolio widget.
-widget = "portfolio"  # See https://sourcethemes.com/academic/docs/page-builder/
+widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 10  # Order that this section will appear.
@@ -19,7 +19,7 @@ subtitle = ""
   # To remove toolbar, delete/comment all instances of `[[content.filter_button]]` below.
 
   # Default filter index (e.g. 0 corresponds to the first `[[filter_button]]` instance below).
-  filter_default = 0
+  # filter_default = 0
 
 
   #[[content.filter_button]]
@@ -38,7 +38,7 @@ subtitle = ""
   #   1 = List
   #   3 = Card
   #   5 = Showcase
-  view = 5
+  view = 3
 
   # For Showcase view, flip alternate rows?
   flip_alt_rows = false
