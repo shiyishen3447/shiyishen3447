@@ -20,10 +20,10 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/shiyi-shen-5833b4a7/
-  - icon: github
+  - icon: github-square
     icon_pack: fab
     link: https://github.com/shiyishen3447
-  - icon: fa-pen-alt
+  - icon: pen-square
     icon_pack: fas
     link: https://shiyisrsly.com/files/shiyishen_resume.pdf
 education:
