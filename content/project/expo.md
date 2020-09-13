@@ -29,12 +29,7 @@ weight = 10  # Order that this section will appear.
    date_start = "2017-01-01"
    date_end = ""
    description = ""
-   Responsibilities include:"""
-  
-   * Analysing
-   * Modelling
-   * Deploying
-   """
-
+   Responsibilities include: "ugh"
+   
 +++
 
