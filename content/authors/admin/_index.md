@@ -16,7 +16,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: "/about/#contact"
+    link: "mailto:shiys3447@yahoo.com"
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/shiyi-shen-5833b4a7/
