@@ -11826,6 +11826,7 @@ ul.ul-edu li .description p.institution {
     display: block;
     position: relative;
     overflow: hidden
+	height: calc(100% + 30px);
 }
 
 .project-toolbar {
