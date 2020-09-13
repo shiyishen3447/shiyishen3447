@@ -11825,6 +11825,7 @@ ul.ul-edu li .description p.institution {
 .projects-container {
     display: block;
     position: relative;
+	height: 900px;
     overflow: hidden
 }
 
@@ -11847,11 +11848,6 @@ ul.ul-edu li .description p.institution {
     .project-card {
         width: 100%
     }
-}
-@media screen and (max-height:900px){
-	.projects-container{
-		height: 97% ;
-	}
 }
 
 .project-item {
