@@ -11826,7 +11826,6 @@ ul.ul-edu li .description p.institution {
     display: block;
     position: relative;
     overflow: hidden
-	height: 800px;
 }
 
 .project-toolbar {
@@ -11835,6 +11834,7 @@ ul.ul-edu li .description p.institution {
 
 .project-card {
     position: relative;
+	height: auto;
     width: calc(33.3% - 2*20px)
 }
 
