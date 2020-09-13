@@ -14,7 +14,7 @@ interests:
   - Computational Linguistics
   - Information Retrieval
 social:
-  - icon: envelope
+  - icon: envelope-square
     icon_pack: fas
     link: "mailto:shiys3447@yahoo.com"
   - icon: linkedin
@@ -23,7 +23,7 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/shiyishen3447
-  - icon: file-alt
+  - icon: fa-pen-alt
     icon_pack: fas
     link: https://shiyisrsly.com/files/shiyishen_resume.pdf
 education:
