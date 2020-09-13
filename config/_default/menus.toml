@@ -32,8 +32,8 @@
 #    url = "projects/"
 #    weight = 70
 
-
-[[main]]
-   name = "Projects"
-   url = "project/"
-   weight = 30
+#
+# [[main]]
+#    name = "Projects"
+#    url = "project/"
+#    weight = 30
