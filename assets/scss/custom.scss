@@ -11855,7 +11855,7 @@ ul.ul-edu li .description p.institution {
 }
 
 .project-card.project-item {
-    margin: 40px 0 20px
+    margin: 10px 0 20px
 }
 
 .project-card .card {
@@ -11867,8 +11867,12 @@ ul.ul-edu li .description p.institution {
     margin-bottom: 3rem
 }
 
+.project-item:first-of-type {
+	margin-left: 3rem;
+}
 .project-item:last-of-type {
-    margin-bottom: 3rem
+    margin-bottom: 3rem;
+	margin-left: 3rem;
 }
 
 .isotope-item {
