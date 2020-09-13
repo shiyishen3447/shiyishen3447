@@ -2467,21 +2467,19 @@ fieldset:disabled a.btn {
 
 .btn-primary {
     color: #fff;
-    background-color: #0041f5;
-    border-color: #0084bf
+    background-color: #0084bf;
 }
 
 .btn-primary:hover {
     color: #fff;
-    background-color: #0346ff;
-    border-color: #0041f5
+    background-color: #0084bf;
 }
 
 .btn-primary:focus,
 .btn-primary.focus {
     color: #fff;
-    background-color: #0346ff;
-    border-color: #0041f5;
+    background-color: #0084bf;
+    border-color: #0084bf;
     box-shadow: 0 0 0 .2rem rgba(73, 122, 255, .5)
 }
 
@@ -2496,7 +2494,7 @@ fieldset:disabled a.btn {
 .btn-primary:not(:disabled):not(.disabled).active,
 .show>.btn-primary.dropdown-toggle {
     color: #fff;
-    background-color: #0041f5;
+    background-color: #0084bf;
     border-color: #003ee8
 }
 
@@ -5075,7 +5073,7 @@ a.badge:focus {
 a.badge-primary:hover,
 a.badge-primary:focus {
     color: #fff;
-    background-color: #0041f5
+    background-color: #0084bf
 }
 
 a.badge-primary:focus,
@@ -6621,7 +6619,7 @@ a.bg-primary:hover,
 a.bg-primary:focus,
 button.bg-primary:hover,
 button.bg-primary:focus {
-    background-color: #0041f5 !important
+    background-color: #0084bf !important
 }
 
 .bg-secondary {
@@ -10382,7 +10380,7 @@ a.badge:hover {
 .tag-cloud a:active,
 .tag-cloud a:focus,
 .tag-cloud a:hover {
-    color: #0041f5;
+    color: #0084bf;
     transform: scale(1.2)
 }
 
@@ -11589,7 +11587,7 @@ ul.share li:hover i {
 }
 
 .wg-hero.dark .btn {
-    color: #0041f5
+    color: #0084bf
 }
 
 a.hero-cta-alt {
@@ -12187,7 +12185,7 @@ ul.toc-top {
 
 .anchorjs-link {
     font-weight: 400;
-    color: #0041f5;
+    color: #0084bf;
     transition: color .16s linear
 }
 
@@ -12214,7 +12212,7 @@ body.dark,
 .dark .form-control:focus {
     background-color: #44475a;
     border-color: #0084bf;
-    box-shadow: 0 0 0 .2rem #0041f5
+    box-shadow: 0 0 0 .2rem #0084bf
 }
 
 .dark h1,
