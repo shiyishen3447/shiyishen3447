@@ -11491,7 +11491,7 @@ ul.share li:hover i {
 }
 
 .home-section:first-of-type {
-    padding: 1.9rem 0px 4rem 0px;
+    padding-top: 50px
 }
 
 .home-section:nth-of-type(even) {
@@ -11514,6 +11514,9 @@ ul.share li:hover i {
     .home-section:first-of-type {
    	 	margin-top: -0.9rem;
     }
+	.home-section:first-of-type {
+	    padding: 40px 0 30px 0
+	}
 }
 
 .section-heading h1 {
@@ -12595,5 +12598,6 @@ div.alert-thanks {
 p.poweredby {
 	margin-bottom: 0px;
 }
+
 
 
