@@ -11490,9 +11490,6 @@ ul.share li:hover i {
     background-attachment: fixed
 }
 
-.home-section:first-of-type {
-    padding-top: 0.6rem
-}
 
 .home-section:nth-of-type(even) {
     background-color: #fff;
@@ -12354,7 +12351,7 @@ html[dir=rtl] body {
 }
 
 .home-section.wg-pages {
-    padding: 20px 0 55px 0;
+    padding: 0px 0 0px 0;
 }
 
 .home-section.wg-pages .content {
