@@ -11496,6 +11496,10 @@ ul.share li:hover i {
 	margin-top: 0.6rem;
 }
 
+.home-section:nth-of-type(odd){
+	margin: -1rem 0;
+}
+
 .dark .home-section {
     background-color: #090a0b
 }
@@ -12374,6 +12378,8 @@ html[dir=rtl] body {
     line-height: 1em;
     letter-spacing: -.025em
 }
+
+
 
 figure {
     margin-top: 0;
