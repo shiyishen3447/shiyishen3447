@@ -25,7 +25,7 @@ social:
     link: https://github.com/shiyishen3447
   - icon: pen-square
     icon_pack: fas
-    link: https://shiyisrsly.com/files/shiyishen_resume.pdf
+    link: https://nlpwshiyi.me/files/shiyishen_resume.pdf
 education:
   courses:
     - course: "Fundamentals of Computational Linguistics "
