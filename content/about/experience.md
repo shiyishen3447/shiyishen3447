@@ -44,7 +44,8 @@ date_format = "Jan 2006"
   date_start = "2017-12-22"
   date_end = "2018-03-15"
   description = """ Scrutinized written applications for college candidates
-  Responsibilities include:
+
+ Responsibilities include:
 
   * Proofreading
   * Content Editing
