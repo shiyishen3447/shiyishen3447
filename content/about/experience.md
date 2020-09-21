@@ -24,12 +24,31 @@ date_format = "Jan 2006"
   location = "Boston"
   date_start = "2017-10-19"
   date_end = "2017-10-27"
-  description = """accompolished a mini project on bio text mining and bio-marker extraction
+  description = """Accompolished a mini project on bio text mining and bio-marker extraction
   Responsibilities include:
 
   * Collecting data
   * Analyzing
   * Reporting
+    """
+
+
+
+
+
+[[experience]]
+  title = "Application Specialist"
+  company = "Forward Pathway LLC"
+  company_url = "https://www.forwardpathway.com/en"
+  location = "Pittsburgh"
+  date_start = "2017-12-22"
+  date_end = "2018-03-15"
+  description = """ Scrutinized written applications for college candidates
+  Responsibilities include:
+
+  * Proofreading
+  * Content Editing
+  * Writing Reports
     """
 
 +++
