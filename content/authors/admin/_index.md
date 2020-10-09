@@ -1,14 +1,14 @@
 ---
 title: Shiyi Shen
-role: "NLP Researcher"
+role: NLP Researcher
 avatar_filename: avatar.jpg
 organizations:
-  - name: "Brandeis University"
+  - name: Brandeis University
 superuser: true
 authors:
   - admin
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: My research interests include machine learning, natural language
+  processing, textual analytics.
 interests:
   - Artificial Intelligence
   - Computational Linguistics
@@ -16,7 +16,7 @@ interests:
 social:
   - icon: envelope-square
     icon_pack: fas
-    link: "mailto:shiys3447@yahoo.com"
+    link: mailto:shiys3447@yahoo.com
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/shiyi-shen-5833b4a7/

@@ -1,5 +1,5 @@
 ---
-title: What is NLP?
+title: Natural Language Processing with Python
 subtitle: A shallow dive into Natural Language Processing
 date: 2020-09-10T22:13:37.042Z
 summary: A shallow dive to Natural Language Processing
