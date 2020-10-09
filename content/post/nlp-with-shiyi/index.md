@@ -1,5 +1,5 @@
 ---
-title: Markdown: A Useful Tool for Rendering Beautiful Visualization
+title: Create beautiful math, graphs, and charts rendering with Markdown
 subtitle: Academic supports a Markdown extension for highlighting code syntax
 summary: Machine Learning, AI, and Natural Language Processing.
 ##
