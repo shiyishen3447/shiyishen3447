@@ -1,6 +1,6 @@
 ---
-title: Welcome to NLP with Shiyi
-subtitle: my first post to my first blog
+title: Create beautiful math, graphs, and charts rendering with Markdown
+subtitle: Academic supports a Markdown extension for highlighting code syntax
 summary: Machine Learning, AI, and Natural Language Processing.
 ##
 date: 2019-07-12
@@ -15,11 +15,7 @@ image:
   alt_text: ""
 ---
 
-**Here I have fun with NLP（Natural Language Processing）**
-
-## Who Am I?
-
-I have been an "advanced" master's student at **Brandeis University** since 2018. 
+## Math, graphs, and charts rendering with Markdown
 
 Academic supports a Markdown extension for highlighting code syntax. You can enable this feature by toggling the `highlight` option in your `config/_default/params.toml` file.
 
