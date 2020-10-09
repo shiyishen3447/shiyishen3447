@@ -1,5 +1,5 @@
 ---
-title: Create beautiful math, graphs, and charts rendering with Markdown
+title: Create Beautiful Visualization or Math Rendering with Markdown
 subtitle: Academic supports a Markdown extension for highlighting code syntax
 summary: Machine Learning, AI, and Natural Language Processing.
 ##
