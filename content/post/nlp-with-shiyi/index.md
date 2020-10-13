@@ -1,7 +1,7 @@
 ---
-title: Create Beautiful Visualization or Math Rendering with Markdown
-subtitle: Academic supports a Markdown extension for highlighting code syntax
-summary: Machine Learning, AI, and Natural Language Processing.
+title: Create Visually Satisfying Blog Post with Markdown
+subtitle: Academic supports a Markdown extension for highlighting code syntax.
+summary: Blog design, Tech strategies, and Markup Languages.
 ##
 date: 2019-07-12
 math: true
@@ -17,7 +17,7 @@ image:
 
 ## Math, graphs, and charts rendering with Markdown
 
-Academic supports a Markdown extension for highlighting code syntax. You can enable this feature by toggling the `highlight` option in your `config/_default/params.toml` file.
+Markdown is a markup language that allows you to compartmentalize/group together sections of the blog in terms of their purposes. 
 
     ```python
     import pandas as pd

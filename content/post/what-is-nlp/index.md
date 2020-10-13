@@ -1,8 +1,8 @@
 ---
 title: Natural Language Processing with Python
-subtitle: A shallow dive into Natural Language Processing
+subtitle: A quick dive into Natural Language Processing
 date: 2020-09-10T22:13:37.042Z
-summary: A shallow dive to Natural Language Processing
+summary: A quick dive to Natural Language Processing
 draft: false
 featured: false
 image:
