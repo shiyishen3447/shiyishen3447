@@ -25,9 +25,6 @@ image:
 ---
 
 **Create a free website with Academic using Markdown, Jupyter, or RStudio. Choose a beautiful color theme and build anything with the Page Builder - over 40 _widgets_, _themes_, and _language packs_ included!**
-_shiyi_ _shen_ _this_ _italic_ _shortcut_ _is_ _pretty_ _fucking_ _awesome_
-
-_this_ _will_ _work_ 
 
 {{% toc %}}
 
