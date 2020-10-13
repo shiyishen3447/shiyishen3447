@@ -12,5 +12,4 @@ image:
   caption: ""
   alt_text: ""
 ---
-In this blog I am going to have a generalized dive into NLP and its related topics.
 
