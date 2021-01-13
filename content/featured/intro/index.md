@@ -11,7 +11,7 @@ image:
   filename: featured.jpg
   focal_point: Center
   preview_only: false
-  caption: ""
+  caption: photo credit to QVASIMODO / ISTOCK
   alt_text: ""
 ---
 
