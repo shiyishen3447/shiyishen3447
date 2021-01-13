@@ -1,8 +1,8 @@
 ---
 title: Natural Language Processing with Python
-subtitle: A quick dive into Natural Language Processing
+subtitle: Siri, supercalifragilisticexpialodocious!
 date: 2020-09-10T22:13:37.042Z
-summary: A quick dive to Natural Language Processing
+summary: ""
 draft: false
 featured: false
 image:
@@ -12,4 +12,16 @@ image:
   caption: ""
   alt_text: ""
 ---
+Extensive Topics:
 
+1. language engineer
+
+2. Good ol python 
+
+3. GPT
+
+4. FSTs
+
+5. neural networks
+
+6. The Beauty of Stats and Math
