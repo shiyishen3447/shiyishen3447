@@ -27,7 +27,7 @@ I have always had a passion for studying all aspects of languages, including but
 
 ---
 
-## 🔧 "Useless" or "Use unless"?
+## 🔧 "Useless"?
 
 ---
 
@@ -37,7 +37,7 @@ In all honesty, I would partially agree that this mentality had once become a po
 
 ---
 
-## 🔬 Language == Science?
+## 🔬 Language Studies Is Science
 
 ---
 
