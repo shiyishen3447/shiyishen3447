@@ -1,6 +1,6 @@
 ---
 title: Welcome to NLP with Shiyi
-subtitle: my first post to my first blog
+subtitle: My first post to my first blog
 summary: Machine Learning, AI, and Natural Language Processing.
 ##
 date: 2019-07-12
@@ -29,13 +29,13 @@ In all honesty, I would agree partially this mentality had once become a potenti
 
 ## The Power of Language
 
-**Language is built on propositions**, as many would agree. If we don't approach something that grapples with reality, one would ask for the significance of studying natural languages. We are surrounded by such an abundant pool of information provided in a written format (newspapers, books, journals, and virtually everything on the internet) - full of symbols and representations. As ubiquitous as it can be and easily ignored a fact that, language is one of the closest media, if not the most effective, that humans could rely on for communication and tranmitting information. The closest we could get to the discernment of our brain and mind, acquisition of knowledge, and a deeper understanding of our world could, therefore, be through understanding language. 
+**Language is built on propositions**, as many would agree. If we don't approach something that grapples with reality, one would ask for the significance of studying natural languages. We are surrounded by such an abundant pool of information provided in a written format (newspapers, books, journals, and virtually everything on the internet) - full of symbols and representations. As ubiquitous as it can be and easily ignored a fact that, language is one of the closest media, if not the most effective, that humans could rely on for communication and tranmitting information. The closest we could get to the discernment of our brain and mind, the acquisition of knowledge, and a deeper understanding of our world could, therefore, be through understanding language. 
 
 One could also arguably suggest that extracting useful information from the ample raw textual data through minimizing loss in the probabilistic truth is therefore a path closer and closer to the actual truth - how fascinating this is. By the end of the day, we just get amazed at how sentiments on Twitter could be in rhythme with stock market and reflect instant market value; how robots can formulate a human-like conversation with humans through learning the way we talk; and how Information is power and the source of knowledge could come from langauge data. 
 
 ## In A Nutshell
 
-Language is not a perfect a model of the reality, and we have other senses and media that are equally important modelings of the truth and world we scratch our head off trying to understand. Yet, we can still master a language/paradigm perfect enough that we can gain a better insight to human conciousness and obtain a deeper understanding of the human reality. All in all, I would invite you with all my sincerity to join me in this journey of a full imaginative and fun world where our wisdom is manifested in the light of understanding natural languages through the lens of artificial intelligence - an experience that is unique to us. ✨
+Language is not a perfect a model of the reality, and we have other senses and media that are equally important modelings of the truth and world we scratch our head off trying to understand. Yet, we can still master a language/paradigm perfect enough that we can gain a better insight to human conciousness and obtain a deeper understanding of the human reality. All in all, I would invite you with all my sincerity to join me in this journey of a full imaginative and fun world where our wisdom is manifested in the light of understanding natural languages through the lens of artificial intelligence - an experience that is unique to all of us. ✨
 
 
 
