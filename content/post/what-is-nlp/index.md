@@ -2,7 +2,7 @@
 title: Natural Language Processing with Python
 subtitle: Siri, supercalifragilisticexpialodocious!
 date: 2020-09-10T22:13:37.042Z
-summary: ""
+summary: Siri, supercalifragilisticexpialodocious!
 draft: false
 featured: false
 image:
