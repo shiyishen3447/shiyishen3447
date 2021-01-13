@@ -52,7 +52,7 @@ We are in an era of information explosion (newspapers, books, journals, and virt
 
 ---
 
-Language is not a perfect model of reality, and we have other senses and media that are equally powerful modelings of the truth and world we scratch our head off trying to understand. Yet, **we can still master a language/paradigm perfect enough for gaining a better insight into human consciousness and obtain a deeper understanding of human reality.** All in all, I want to invite you with all my sincerity to embark on a journey with me. We together could explore how our wisdom gets manifested in the light of understanding natural languages through the lens of artificial intelligence. It is, I'd say, an experience that is UNIQUE to all of us. ✨
+Language is not a perfect model of reality, and we have other senses and media that are equally powerful modelings of the truth and world we scratch our head off trying to understand. Yet, **we can still master a language/paradigm perfect enough for gaining a better insight into human consciousness and obtaining a deeper understanding of human reality.** All in all, I want to invite you with all my sincerity to embark on a journey with me. We together could explore how our wisdom gets manifested in the light of understanding natural languages through the lens of artificial intelligence. It is, I'd say, an experience that is UNIQUE to all of us. ✨
 
 
 
