@@ -33,7 +33,7 @@ In all honesty, I would partially agree that this mentality had once become a po
 
 **Language is built on propositions**, as many would agree. If we don't approach something that grapples with reality, one would ask for the significance of studying natural languages. As ubiquitous as it could be and easily ignored a fact, language is one of the closest devices, if not the most effective, that humans could rely on for communication and information transmission.  We are in an era of information explosion (newspapers, books, journals, and virtually everything on the internet) and full of symbols and representations. One may say the closest we could get to the discernment of our brain and mind, the acquisition of knowledge, and a deeper understanding of our world could be through understanding language. 
 
-It could also arguably imply that extracting inferences from the raw textual data through minimizing loss in the probabilistic truth is, therefore, a path closer and closer to the actual reality. In the end, one hardly doesn't get amazed at how sentiments on Twitter could be in rhythm with the stock market and reflect instant market value. Robots can have a human-like conversation and learn how we converse. 
+It could also arguably imply that extracting inferences from the raw textual data through minimizing loss in the probabilistic truth is, therefore, a path closer and closer to the actual reality. In the end, one hardly doesn't get amazed at how sentiments on Twitter could be in rhythm with the stock market and reflect instant market value. Robots could have a human-like conversation and learn how we converse. 
 
 ## In A Nutshell
 
