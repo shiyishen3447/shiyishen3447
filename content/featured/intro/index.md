@@ -9,7 +9,7 @@ diagram: true
 featured: true
 image:
   filename: featured.jpg
-  focal_point: Smart
+  focal_point: Center
   preview_only: false
   caption: ""
   alt_text: ""
