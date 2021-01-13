@@ -8,10 +8,11 @@ math: true
 diagram: true
 featured: true
 image:
+  placement: 1
   filename: featured.jpg
   focal_point: Center
   preview_only: false
-  caption: photo credit to QVASIMODO / ISTOCK
+  caption: Photo credit to [QVASIMODO / ISTOCK](https://www.istockphoto.com/)
   alt_text: ""
 ---
 
