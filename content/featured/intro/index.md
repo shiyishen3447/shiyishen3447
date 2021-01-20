@@ -60,7 +60,7 @@ It's not hard to understand that language processing requires an extensive amoun
 
 ---
 
-In concluding remarks, language is not a perfect model of reality, and we have other senses and media that are equally powerful modelings of the truth and world we scratch our head off trying to understand. Yet, **we can still master a language/paradigm perfect enough for gaining a better insight into human consciousness and obtaining a deeper understanding of human reality.** In the end, one doesn't hardly get amazed at how sentiments on Twitter could be in rhythm with the stock and reflect instant market value. Robots could have a human-like conversation and learn how we converse. 
+In concluding remarks, I wouldn't say that language is a perfect model of reality, and we have other senses and media that are equally powerful modelings of the truth and world we scratch our head off trying to understand. Yet, **we can still master a language/paradigm perfect enough for gaining a better insight into human consciousness and obtaining a deeper understanding of human reality.** In the end, one doesn't hardly get amazed at how sentiments on Twitter could be in rhythm with the stock and reflect instant market value. Robots could have a human-like conversation and learn how we converse. 
 
 
 
