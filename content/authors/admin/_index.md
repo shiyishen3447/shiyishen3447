@@ -8,7 +8,7 @@ superuser: true
 authors:
   - admin
 bio: My research interests include machine learning, natural language
-  processing, textual analytics.
+  processing, and textual analytics.
 interests:
   - Artificial Intelligence
   - Computational Linguistics
