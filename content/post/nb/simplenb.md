@@ -19,8 +19,8 @@ draft: false
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 projects: []
 image:
-  focal_point: Smart
   filename: simplenb_2_0.png
+  focal_point: Smart
   preview_only: false
 ---
 ## Is It An Action Film or A Comedy?
@@ -38,7 +38,7 @@ Note that in this exercise about computing the denominator for the naive Bayes c
 ```python
 from IPython.core.display import Image
 Image('https://javafreecode.files.wordpress.com/2015/02/posterior-full.png')
-    
+```  
 ![Simplenb 2 0](simplenb_2_0.png)
 
 ## Building and Storing Feature Vectors
