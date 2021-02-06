@@ -1,26 +1,21 @@
 ---
-title: Simple Naive Bayes Classifier with Movie Reviews
+title: Simple Naive Base Classifier with Movie Reviews
 subtitle: This is the most ____ movie I have ever watched!
 summary: This is the most ____ movie I have ever watched!
 authors:
-
+- admin
 tags: []
 categories: []
 date: "2019-02-05T00:00:00Z"
 lastMod: "2019-09-05T00:00:00Z"
-featured: true
-math: true
-diagram: true
+featured: false
 draft: false
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: featured.png
-  focal_point: Smart
-  preview_only: false
   caption: ""
-  alt_text: ""
+  focal_point: ""
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
@@ -31,15 +26,21 @@ image:
 projects: []
 ---
 
-
 ```python
 from IPython.core.display import Image
 Image("/Users/shiyishen/GitHub/shiyishen3447/content/post/simple-naive-bayes/featured.png")
 ```
 
-![png](./index_1_0.png) 
 
-## Import All The Necessary Libs 
+
+
+    
+![png](./simple-naive-bayes_1_0.png)
+    
+
+
+
+## Numpy and Defaultdict for Feature Vectors 
 Here we will import `numpy` and build matrices and arrays to support our data structure 
 
 In the past, I have primarily used dictionary for data storage. Alternatively, `numpy` can do powerful magic tricks to 
