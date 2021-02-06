@@ -19,10 +19,9 @@ draft: false
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 projects: []
 image:
-  caption: simplenb_2_0.png
-  focal_point: ""
-  filename: featured.png
-  preview_only: true
+  focal_point: Smart
+  filename: simplenb_2_0.png
+  preview_only: false
 ---
 ## Is It An Action Film or A Comedy?
 
