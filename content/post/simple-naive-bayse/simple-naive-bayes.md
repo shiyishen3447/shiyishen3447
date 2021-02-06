@@ -1,6 +1,6 @@
 ```python
 ---
-title: Simple Naive Base Classifier with Movie Reviews
+title: Simple Naive Bayes Classifier with Movie Reviews
 subtitle: This is the most ____ movie I have ever watched!
 summary: This is the most ____ movie I have ever watched!
 authors:
