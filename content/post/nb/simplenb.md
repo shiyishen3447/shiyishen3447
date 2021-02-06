@@ -18,7 +18,7 @@ image:
 ---
 ## Is It An Action Film or A Comedy?
 
-This notebook demonstrates how to train a simple naive bayes classfier to recognize the genre of the film through its reivew. 
+This notebook demonstrates how to train a simple naive bayes classifier to recognize the genre of the film through its review. 
 
 Before we start, below is a picture demonstration of the equation for calculating the likelihood.
 
