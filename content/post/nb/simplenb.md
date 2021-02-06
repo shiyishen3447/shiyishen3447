@@ -1,5 +1,5 @@
 ---
-title: Simple Naive Bayes Movie Review Classifier with NLTK and Numpy
+title:A Simple Naive Bayes Movie Review Classifier
 subtitle: Classify movie reviews with a generative model
 summary: Classify movie reviews with a generative model
 authors:
@@ -7,13 +7,13 @@ tags: []
 categories: []
 date: "2019-02-05T00:00:00Z"
 lastMod: "2019-09-05T00:00:00Z"
-featured: false
+featured: true
 draft: false
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: ""
+  caption: featured.png
   focal_point: ""
 
 # Projects (optional).
@@ -39,16 +39,8 @@ Note that in this exercise about computing the denominator for the naive Bayes c
 ```python
 from IPython.core.display import Image
 Image('https://javafreecode.files.wordpress.com/2015/02/posterior-full.png')
-```
-
-
-
-
-    
-![png](./simplenb_2_0.png)
-    
-
-
+```    
+![Simplenb 2 0](simplenb_2_0.png)
 
 ## Building and Storing Feature Vectors
 
