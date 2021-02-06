@@ -3,8 +3,6 @@ title:A Simple Naive Bayes Movie Review Classifier
 subtitle: Classify movie reviews with a generative model
 summary: Classify movie reviews with a generative model
 authors: null
-date: 2019-02-05T00:00:00Z
-lastMod: 2019-09-05T00:00:00Z
 tags: []
 categories: []
 date: "2019-02-05T00:00:00Z"
@@ -68,14 +66,7 @@ The first cell of your Jupyter notebook will contain your post metadata ([front 
 
 In Jupyter, choose *Markdown* as the type of the first cell and wrap your Academic metadata in three dashes, indicating that it is YAML front matter: 
 
-```
----
-title: My post's title
-date: 2019-09-01
-
 # Put any other Academic metadata here...
----
-```
 
 Edit the metadata of your post, using the [documentation](https://sourcethemes.com/academic/docs/managing-content) as a guide to the available options.
 
