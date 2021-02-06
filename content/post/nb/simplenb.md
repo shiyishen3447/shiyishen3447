@@ -1,5 +1,5 @@
 ---
-title: Simple Naive Bayes Movie Review Classifier with NLTK and Numpy
+title: Simple Naive Bayes Movie Review Classifier
 subtitle: Classify movie reviews with a generative model
 date: 2019-02-05T00:00:00Z
 summary: Classify movie reviews with a generative model
