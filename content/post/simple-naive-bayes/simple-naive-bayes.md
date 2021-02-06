@@ -12,8 +12,8 @@ tags: []
 categories: []
 image:
   filename: simple-naive-bayes_1_0.png
-  focal_point: Smart
-  preview_only: true
+  focal_point: ""
+  preview_only: false
   caption: ""
   alt_text: ""
 ---
