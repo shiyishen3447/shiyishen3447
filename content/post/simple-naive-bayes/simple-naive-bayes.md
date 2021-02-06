@@ -1,4 +1,3 @@
-```python
 ---
 title: Simple Naive Bayes Classifier with Movie Reviews
 subtitle: This is the most ____ movie I have ever watched!
@@ -26,7 +25,6 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
-```
 
 
 ```python
