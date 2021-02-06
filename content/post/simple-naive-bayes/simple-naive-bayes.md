@@ -29,7 +29,7 @@ projects: []
 
 ```python
 from IPython.core.display import Image
-Image("/Users/shiyishen/GitHub/shiyishen3447/content/post/simple-naive-base/featured.png")
+Image("/Users/shiyishen/GitHub/shiyishen3447/content/post/simple-naive-bayes/featured.png")
 ```
 
 ## Import All The Necessary Libs 
