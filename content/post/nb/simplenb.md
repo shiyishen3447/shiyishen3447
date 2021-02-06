@@ -1,54 +1,39 @@
 ---
 title: Simple Naive Bayes Movie Review Classifier with NLTK and Numpy
 subtitle: Classify movie reviews with a generative model
+date: 2019-02-05T00:00:00Z
 summary: Classify movie reviews with a generative model
-authors:
+draft: false
+featured: false
+authors: null
+lastMod: 2019-09-05T00:00:00Z
 tags: []
 categories: []
-date: "2019-02-05T00:00:00Z"
-lastMod: "2019-09-05T00:00:00Z"
-featured: false
-draft: false
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
+projects: []
 image:
   caption: ""
   focal_point: ""
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references 
-#   `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-projects: []
+  filename: featured.png
+  preview_only: true
 ---
 ## Is It An Action Film or A Comedy?
 
 This notebook demonstrates how to train a simple naive bayes classfier to recognize the genre of the film through its reivew. 
 
 Before we start, below is a picture demonstration of the equation for calculating the likelihood.
+
 1. Prior: number of files in given class, i.e. if 2 out of 5 reviews are action films, 0.4 will be its prior prob.
 2. Likelihood or P(feature|class): give num of features, what's the likelihood that its an action film (words|action)
 3. Evidence: number of data points (here namely reviews) we have. 
 
 Note that in this exercise about computing the denominator for the naive Bayes classifier, we can ignore the denominator since we're comparing P(action | review) and P(comedy | review) and so can cancel out their denominators to simplify our work.
 
-
 ```python
 from IPython.core.display import Image
 Image('https://javafreecode.files.wordpress.com/2015/02/posterior-full.png')
 ```
 
-
-
-
-    
-![png](./simplenb_2_0.png)
-    
-
-
+![](featured.png)
 
 ## Building and Storing Feature Vectors
 
@@ -58,9 +43,6 @@ Here `numpy` is used to create matrices for creating **feature vectors**
 In the past, I have primarily used `dictionaries` for storing data. Alternatively, `numpy` supports various magic operations on the data structure and is very powerful. Therefore, here `numpy` is used.
 
 Please click for more information about how to use [numpy](https://cs231n.github.io/python-numpy-tutorial/).
-
-
-
 
 ```python
 import os
@@ -77,7 +59,6 @@ doc_comedy = []
 doc_all = []
 ```
 
-
 ```python
 
 ```
@@ -86,7 +67,7 @@ doc_all = []
 
 The first cell of your Jupter notebook will contain your post metadata ([front matter](https://sourcethemes.com/academic/docs/front-matter/)).
 
-In Jupter, choose _Markdown_ as the type of the first cell and wrap your Academic metadata in three dashes, indicating that it is YAML front matter: 
+In Jupter, choose *Markdown* as the type of the first cell and wrap your Academic metadata in three dashes, indicating that it is YAML front matter: 
 
 ```
 ---
