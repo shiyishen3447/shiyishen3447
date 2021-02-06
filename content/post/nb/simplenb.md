@@ -4,7 +4,7 @@ subtitle: Classify movie reviews with a generative model
 date: 2019-02-05T00:00:00Z
 summary: Classify movie reviews with a generative model
 draft: false
-featured: false
+featured: true
 authors: null
 lastMod: 2019-09-05T00:00:00Z
 tags: []
