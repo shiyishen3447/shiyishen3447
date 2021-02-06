@@ -10,9 +10,9 @@ math: true
 diagram: true
 featured: true
 image:
-  filename: ""
+  filename: simple-naive-bayes_1_0.png
   focal_point: ""
-  preview_only: true
+  preview_only: false
   caption: ""
   alt_text: ""
 ---
