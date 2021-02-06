@@ -29,7 +29,7 @@ projects: []
 
 ```python
 from IPython.core.display import Image
-Image("/Users/shiyishen/GitHub/shiyishen3447/content/post/simple-naive-base/1_0a2wA8H1nbyEXILf0WBcHA.png")
+Image("/Users/shiyishen/GitHub/shiyishen3447/content/post/simple-naive-base/featured.png")
 ```
 
 ## Import All The Necessary Libs 
