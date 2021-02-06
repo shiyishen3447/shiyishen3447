@@ -24,9 +24,6 @@ Image("/Users/shiyishen/GitHub/shiyishen3447/content/post/simple-naive-bayes/fea
  
 ![png](simple-naive-bayes_files/simple-naive-bayes_1_0.png)
     
-
-
-
 ## Numpy and Defaultdict for Feature Vectors 
 Here we will import `numpy` and build matrices and arrays to support our data structure 
 
