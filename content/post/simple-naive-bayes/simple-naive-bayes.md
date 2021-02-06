@@ -3,7 +3,7 @@ title: Simple Naive Base Classifier with Movie Reviews
 subtitle: This is the most ____ movie I have ever watched!
 date: 2021-02-06T19:37:06.550Z
 summary: This is the most ____ movie I have ever watched!
-draft: true
+draft: false
 featured: true
 authors: null
 math: true
