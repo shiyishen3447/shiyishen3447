@@ -1,5 +1,5 @@
 ---
-title: Simple Naive Bayes Movie Review Classifier with NLTK and Numpy
+title: A Simple Naive Bayes Movie Review Classifier
 subtitle: Classify movie reviews with a generative model
 summary: Classify movie reviews with a generative model
 authors:
@@ -36,8 +36,7 @@ Before we start, below is a picture demonstration of the equation for calculatin
 Note that in this exercise about computing the denominator for the naive Bayes classifier, we can ignore the denominator since we're comparing P(action | review) and P(comedy | review) and so can cancel out their denominators to simplify our work.
 
 
-$$P(A \mid B) = \frac{ P( B | A )P( A ) }{P(B)}
-\qquad\qquad\,= {\mathlarger{‎‎\sum}}{ P( B | A )P( A ) }$$
+$$P(A \mid B) = \frac{ P( B | A )P( A ) }{P(B)} = {{‎‎\sum}}{ P( B | A )P( A ) }$$
 
 ## Building and Storing Feature Vectors
 
