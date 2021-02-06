@@ -35,10 +35,10 @@ Before we start, below is a picture demonstration of the equation for calculatin
 
 Note that in this exercise about computing the denominator for the naive Bayes classifier, we can ignore the denominator since we're comparing P(action | review) and P(comedy | review) and so can cancel out their denominators to simplify our work.
 
-```tex
+
 $$P(A \mid B) = \frac{ P( B | A )P( A ) }{P(B)}
 \qquad\qquad\,= {\mathlarger{‎‎\sum}}{ P( B | A )P( A ) }$$
-```
+
 ## Building and Storing Feature Vectors
 
 Create parameters to store the **features** into an appropriate data structure of your choice. 
