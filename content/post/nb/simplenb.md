@@ -65,9 +65,9 @@ doc_all = []
 
 ## Edit your post metadata
 
-The first cell of your Jupter notebook will contain your post metadata ([front matter](https://sourcethemes.com/academic/docs/front-matter/)).
+The first cell of your Jupyter notebook will contain your post metadata ([front matter](https://sourcethemes.com/academic/docs/front-matter/)).
 
-In Jupter, choose *Markdown* as the type of the first cell and wrap your Academic metadata in three dashes, indicating that it is YAML front matter: 
+In Jupyter, choose *Markdown* as the type of the first cell and wrap your Academic metadata in three dashes, indicating that it is YAML front matter: 
 
 ```
 ---
