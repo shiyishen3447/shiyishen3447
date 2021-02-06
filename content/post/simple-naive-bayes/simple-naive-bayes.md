@@ -37,7 +37,7 @@ from IPython.core.display import Image
 Image("/Users/shiyishen/GitHub/shiyishen3447/content/post/simple-naive-bayes/featured.png")
 ```
 
-![png](./featured.png) 
+![png](./index_1_0.png) 
 
 ## Import All The Necessary Libs 
 Here we will import `numpy` and build matrices and arrays to support our data structure 
