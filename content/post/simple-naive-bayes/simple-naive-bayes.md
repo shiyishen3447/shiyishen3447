@@ -3,7 +3,7 @@ title: Simple Naive Bayes Classifier with Movie Reviews
 subtitle: This is the most ____ movie I have ever watched!
 summary: This is the most ____ movie I have ever watched!
 authors:
-- admin
+
 tags: []
 categories: []
 date: "2019-02-05T00:00:00Z"
@@ -31,6 +31,8 @@ projects: []
 from IPython.core.display import Image
 Image("/Users/shiyishen/GitHub/shiyishen3447/content/post/simple-naive-bayes/featured.png")
 ```
+
+![png](./featured.png) 
 
 ## Import All The Necessary Libs 
 Here we will import `numpy` and build matrices and arrays to support our data structure 
