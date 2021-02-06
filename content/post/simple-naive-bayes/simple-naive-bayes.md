@@ -3,27 +3,18 @@ title: Simple Naive Base Classifier with Movie Reviews
 subtitle: This is the most ____ movie I have ever watched!
 summary: This is the most ____ movie I have ever watched!
 authors:
-- admin
 tags: []
 categories: []
-date: "2019-02-05T00:00:00Z"
-lastMod: "2019-09-05T00:00:00Z"
+date: 2019-07-12
+math: true
+diagram: true
 featured: true
-draft: false
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: featured.png
+  filename: featured.jpg
   focal_point: Smart
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references 
-#   `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-projects: []
+  preview_only: false
+  caption: ""
+  alt_text: ""
 ---
 
 ```python
@@ -34,9 +25,9 @@ Image("/Users/shiyishen/GitHub/shiyishen3447/content/post/simple-naive-bayes/fea
 
 
 
-    
+​    
 ![png](./simple-naive-bayes_1_0.png)
-    
+​    
 
 
 
@@ -54,3 +45,4 @@ from collections import defaultdict
 import nltk 
 #nltk.download(punkt)
 ```
+
