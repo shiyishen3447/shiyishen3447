@@ -37,19 +37,19 @@ date_format = "Jan 2006"
 
 
 [[experience]]
-  title = "Application Specialist"
-  company = "Forward Pathway LLC"
-  company_url = "https://www.forwardpathway.com/en"
-  location = "Pittsburgh"
-  date_start = "2017-12-22"
-  date_end = "2018-03-15"
-  description = """ Scrutinized written applications for college candidates
+  title = "NLP Specialist"
+  company = "Basil Labs"
+  company_url = "https://basillabs.org/"
+  location = "Boston, MA"
+  date_start = "2021-04-15"
+  date_end = ""
+  description = """
 
  Responsibilities include:
 
-  * Proofreading
-  * Content Editing
-  * Writing Reports
+  * Natural Language Processing
+  * Data Analysis
+  * Web Scraping
     """
 
 +++
