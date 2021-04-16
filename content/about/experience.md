@@ -41,7 +41,7 @@ date_format = "Jan 2006"
   company = "Basil Labs"
   company_url = "https://basillabs.org/"
   location = "Boston, MA"
-  date_start = "2021-04-15"
+  date_start = "2021-02-03"
   date_end = ""
   description = """
 
